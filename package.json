@@ -1,0 +1,25 @@
+{
+  "name": "django-session",
+  "version": "0.0.1",
+  "author": {
+    "name": "Oscar Javier Gentilezza Arenas",
+    "email": "tioscar@gmail.com",
+    "url": "http://blog.exodica.com.ar/"
+  },
+  "license": "GPL",
+  "description": "Node module for read Django session data",
+  "private": false,
+  "dependencies": {
+    "mysql": "=0.9.6",
+    "pickle": "=0.2.0",
+    "base64": "=2.0.7"
+  },
+  "keywords": [
+    "django",
+    "sessions",
+    "pickle"
+  ],
+  "_id": "django-session@0.0.1",
+  "readme": "ERROR: No README.md file found!",
+  "_from": "django-session"
+}
