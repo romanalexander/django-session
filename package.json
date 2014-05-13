@@ -10,7 +10,7 @@
   "description": "Node module for read Django session data",
   "dependencies": {
     "mysql": "~0.9.6",
-    "jpickle": "~0.3.2",
+    "jpickle": "~0.3.4",
     "base64": "~2.1.0"
   },
   "keywords": [
