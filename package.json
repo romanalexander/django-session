@@ -8,11 +8,10 @@
   },
   "license": "GPL",
   "description": "Node module for read Django session data",
-  "private": false,
   "dependencies": {
     "mysql": "~0.9.6",
     "jpickle": "~0.3.2",
-    "base64": "~2.1"
+    "base64": "~2.1.0"
   },
   "keywords": [
     "django",
@@ -20,7 +19,6 @@
     "pickle"
   ],
   "_id": "django-session@0.0.1",
-  "readme": "ERROR: No README.md file found!",
   "_from": "django-session",
   "private": true
 }
